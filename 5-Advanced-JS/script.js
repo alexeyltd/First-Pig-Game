@@ -206,7 +206,7 @@ johnFriendly('morning');
 */
 
 //
-
+/*
 (function() {
    function Question(question, answers, correct) {
 
@@ -285,6 +285,7 @@ johnFriendly('morning');
     nextQuestion();
    
 })();
+*/
 
 
 
